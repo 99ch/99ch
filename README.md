@@ -1,6 +1,5 @@
-![Banner](banner.png)
-
 ## 🚀 Looking for Freelance Work & Mentorship  
+![Banner](banner.png)
 
 Hi everyone! I’m **Chilavert N'dah**, a passionate **junior full-stack & cloud developer**.  
 I love contributing to open-source projects and solving real-world problems through technology.  
