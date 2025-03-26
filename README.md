@@ -53,7 +53,7 @@ If you have **a project**, **some advice**, or just want to connect, feel free t
 
 ---
 
-## ❤️ Profile Views & Followers  
+## ❤️ Profile Views 
 ![](https://komarev.com/ghpvc/?username=99ch&color=blue)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
