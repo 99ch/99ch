@@ -3,10 +3,6 @@
 
 A passionate **full-stack & cloud developer**.  
 I love contributing to open-source projects and solving real-world problems through technology.  
-
-### **🔍 I'm currently looking for:**  
-✔️ **Freelance opportunities** to apply my skills to real-world projects.  
-
 If you have **a project**, **some advice**, or just want to connect, feel free to reach out!  
 
 🌍 **Portfolio:** [chilavertndah.me](https://chilavertndah.me)  
