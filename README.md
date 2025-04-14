@@ -47,20 +47,12 @@ If you have **a project**, **some advice**, or just want to connect, feel free t
       <br>C++
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Laravel" />
-      <br>Selenium
-    </td>
-    <td align="center" width="116">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
       <br>Tensorflow
     </td>
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Laravel" />
-      <br>Pytorch
     </td>
     <td align="center" width="116">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
@@ -127,14 +119,6 @@ If you have **a project**, **some advice**, or just want to connect, feel free t
       <br>Git
     </td>
     <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
-      <br>Rails
-    </td>
-    <td align="center"  width="116">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
@@ -152,19 +136,6 @@ If you have **a project**, **some advice**, or just want to connect, feel free t
     </td>
   </tr>
  <tr>
-      <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
-      <br>Go
-    </td>
-        <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-      </td>
-      </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
             <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
