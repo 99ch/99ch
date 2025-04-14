@@ -1,4 +1,4 @@
-## <h1 align="center"> Hello! I am Chilavert N'dah ✨ </h1>
+## <h1 align="center"> Hello! I am Chilavert N'Dah ✨ </h1>
 ![Banner](banner.png)
 <p align="center">
   <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
