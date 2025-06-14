@@ -172,7 +172,17 @@ If you have **a project**, **some advice**, or just want to connect, feel free t
 ![Chilavert's GitHub stats](https://github-readme-stats.vercel.app/api?username=99ch&show_icons=true&theme=github_dark&hide_border=True)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99ch&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()
 
+----
+
+<h2 align="center">More insight of my GitHub account</h2>
+<h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
+
+<p align="center">
+<img src ="https://github-profile-trophy.vercel.app/?username=99ch&theme=onedark">
+</p>
+
 ---
+
 
 ## ❤️ Profile Views 
 ![](https://komarev.com/ghpvc/?username=99ch&color=blue)
