@@ -11,7 +11,7 @@ A passionate **full-stack & cloud developer**.
 I love contributing to open-source projects and solving real-world problems through technology.  
 If you have **a project**, **some advice**, or just want to connect, feel free to reach out!  
 
-🌍 **Portfolio:** [chilavertndah.me](https://chilavertndah.me)  
+🌍 **Portfolio:** [chilavertndah.com](https://chilavertndah.com)  
 
 ---
 
@@ -193,5 +193,5 @@ If you have **a project**, **some advice**, or just want to connect, feel free t
 
 ## 🔥 Let's Connect!  
 📩 **Email:** [chilavertndah99@gmail.com](mailto:chilavertndah99@gmail.com)  
-🌍 **Portfolio:** [chilavertndah.me](https://chilavertndah.me)  
+🌍 **Portfolio:** [chilavertndah.com](https://chilavertndah.com)  
 💼 **LinkedIn:** [chilavert-n-dah](https://www.linkedin.com/in/chilavert-n-dah-ab5779272/)  
