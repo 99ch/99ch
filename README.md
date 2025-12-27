@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Learning+is+a+lifelong+journey.;Mistakes+are+the+seeds+of+growth.;Dream+big,+achieve+bigger!;&font=Fira%20Code&center=true&width=500&height=50&color=00FF7F&vCenter=true&pause=1000&size=24" />
 </p>
-A passionate **full-stack & cloud developer**.  
+A passionate **Software Developer**.  
 I love contributing to open-source projects and solving real-world problems through technology.  
 If you have **a project**, **some advice**, or just want to connect, feel free to reach out!  
 
