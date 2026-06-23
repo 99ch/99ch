@@ -1,4 +1,4 @@
-## <h1 align="center"> Hello! I am Chilavert N'Dah ✨ </h1>
+## <h1 align="center"> Hello! I am Chilavert N'Dah </h1>
 ![Banner](banner.png)
 <p align="center">
   <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
@@ -11,7 +11,7 @@ I love contributing to open-source projects and solving real-world problems thro
 If you have a project, some advice, or just want to connect, feel free to reach out!  
 ---
 
-## :star: About Me  
+## About Me  
 - **Freelance Software Developer**  
 - Ask me about **AI, Web Dev, App Dev, Compilers, etc.**  
 - **More about me:** [**Resume**](https://drive.google.com/drive/folders/1lI8KVnN6aZ6uaj7JpwG91GhEB3we0iIX?usp=drive_link)  
