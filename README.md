@@ -7,25 +7,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Learning+is+a+lifelong+journey.;Mistakes+are+the+seeds+of+growth.;Dream+big,+achieve+bigger!;&font=Fira%20Code&center=true&width=500&height=50&color=00FF7F&vCenter=true&pause=1000&size=24" />
 </p>
-A passionate ** Software Developer **.  
 I love contributing to open-source projects and solving real-world problems through technology.  
-If you have **a project**, **some advice**, or just want to connect, feel free to reach out!  
-
-🌍 **Portfolio:** [chilavertndah.com](https://chilavertndah.com)  
-
+If you have a project, some advice, or just want to connect, feel free to reach out!  
 ---
 
 ## :star: About Me  
-- 🌱 **Freelance Software Developer**  
-- 💬 Ask me about **AI, Web Dev, App Dev, Compilers, etc.**  
-- 📄 **More about me:** [**Resume**](https://drive.google.com/drive/folders/1lI8KVnN6aZ6uaj7JpwG91GhEB3we0iIX?usp=drive_link)  
-- 💡 **Explore my:** [**LinkedIn**](https://www.linkedin.com/in/chilavert-n-dah-ab5779272/)  
-- 🎥 **Watch me on:** [**YouTube**](https://www.youtube.com/channel/UC6dVeSK8zBQGaaRE7DXA2ow)  
-- 📫 **Write to me:** <a href="mailto:chilavertndah99@gmail.com">chilavertndah99@gmail.com</a>  
+- **Freelance Software Developer**  
+- Ask me about **AI, Web Dev, App Dev, Compilers, etc.**  
+- **More about me:** [**Resume**](https://drive.google.com/drive/folders/1lI8KVnN6aZ6uaj7JpwG91GhEB3we0iIX?usp=drive_link)  
+- **Explore my:** [**LinkedIn**](https://www.linkedin.com/in/chilavert-n-dah-ab5779272/)  
+- **Watch me on:** [**YouTube**](https://www.youtube.com/channel/UC6dVeSK8zBQGaaRE7DXA2ow)  
+- **Write to me:** <a href="mailto:chilavertndah99@gmail.com">chilavertndah99@gmail.com</a>  
 
 ---
 
-## 🌍 Connect with Me  
+## Connect with Me  
 <a href="https://www.linkedin.com/in/chilavert-n-dah-ab5779272/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
 </a>
@@ -167,31 +163,19 @@ If you have **a project**, **some advice**, or just want to connect, feel free t
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=99ch&theme=github-dark-blue)](https://git.io/streak-stats)  
-![Chilavert's GitHub stats](https://github-readme-stats.vercel.app/api?username=99ch&show_icons=true&theme=github_dark&hide_border=True)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99ch&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()
-
-----
-
-<h2 align="center">More insight of my GitHub account</h2>
-<h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
-
-<p align="center">
-<img src ="https://github-profile-trophy.vercel.app/?username=99ch&theme=onedark">
-</p>
-
----
 
 
-## ❤️ Profile Views 
+
+## Profile Views 
 ![](https://komarev.com/ghpvc/?username=99ch&color=blue)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 ---
 
-## 🔥 Let's Connect!  
-📩 **Email:** [chilavertndah99@gmail.com](mailto:chilavertndah99@gmail.com)  
-🌍 **Portfolio:** [chilavertndah.com](https://chilavertndah.com)  
-💼 **LinkedIn:** [chilavert-n-dah](https://www.linkedin.com/in/chilavert-n-dah-ab5779272/)  
+## Let's Connect!  
+Email: [chilavertndah99@gmail.com](mailto:chilavertndah99@gmail.com)  
+Portfolio: [chilavertndah.com](https://chilavertndah.com)  
+LinkedIn: [chilavert-n-dah](https://www.linkedin.com/in/chilavert-n-dah-ab5779272/)  
